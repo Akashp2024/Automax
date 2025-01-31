@@ -2,6 +2,7 @@
 Overview
 
 This web application is designed for buying and selling used vehicles, built using the Python Django framework with an SQLite database. It allows users to register and log in to either list their vehicles for sale or browse available vehicles for purchase. The frontend is developed using HTML, CSS, and JavaScript, ensuring an interactive and user-friendly experience.
+(THE PROJECT IS STILL UNDER DEVELOPMENT).
 
 Features
 
